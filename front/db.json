@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "prenom": "Sarah",
+      "nom": "Ben Ali",
+      "email": "sarah@mail.com",
+      "entreprise": "ENIS"
+    }
+  ],
+  "factures": [
+    {
+      "client": "anis",
+      "date_envoi": "2026-11-12",
+      "statut": "Prof",
+      "montant": "130",
+      "tva": "30",
+      "id": "VNALKuvm9T8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
